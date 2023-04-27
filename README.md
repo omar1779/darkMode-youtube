@@ -9,5 +9,5 @@ este repositorio te mostrara con codigo simple pero optimo y escalable como pode
 Si quieres contribuir al proyecto, por favor sigue los siguientes pasos:
 1. dale una estrella a este repositorio y sigueme en linkedin :)
 ## recuerda seguir estudiando y mejorando tu codigo , ya sea por hobby , pasion o trabajo un codigo optimo y legible siempre hara de tus proyectos un exito
-¡Eso es todo! Espero que este README.md te ayude a crear un archivo de documentación para tu proyecto de React con Vite.
+¡Eso es todo! Espero que este README.md te ayude con la instalacion de dependencias , saludos.
 
